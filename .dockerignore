@@ -1,0 +1,8 @@
+.git
+.env
+node_module
+vendor
+storage/framework/cache/**
+storage/framework/sessions/**
+storage/framework/views/**
+*Dockerfile*
